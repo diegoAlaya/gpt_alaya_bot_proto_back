@@ -1,0 +1,15 @@
+{
+  "name": "playground-proto-back",
+  "version": "0.1.0",
+  "description": "Prototipo azure AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^4.1.0",
+    "@azure/openai": "^1.0.0-beta.12"
+  }
+}
